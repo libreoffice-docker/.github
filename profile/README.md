@@ -1,7 +1,3 @@
-# libreoffice-unoserver
-
-The LibreOffice with unoserver on Docker
-
 ## About
 
 This uses the [`alpine:3.16`](https://hub.docker.com/_/alpine) as base images.
