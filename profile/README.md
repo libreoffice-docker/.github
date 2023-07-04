@@ -1,16 +1,12 @@
 ## About
 
-This uses the [`alpine:3.16`](https://hub.docker.com/_/alpine) as base images.
-
-**NOTE**: Please fork or create a new project from this template to build your own image.
+This uses the [`alpine`](https://hub.docker.com/_/alpine) as base images.
 
 ### Pre-built image
 
-We do not provide stable pre-built images, but we have an unstable `nightly` image for testing.
+[![Docker Pulls](https://img.shields.io/docker/pulls/libreofficedocker/libreoffice-unoserver)](https://hub.docker.com/r/libreofficedocker/libreoffice-unoserver)
 
-```
-libreofficedocker/libreoffice-unoserver:nightly
-```
+You can find the pre-built images on [Docker Hub](https://hub.docker.com/u/libreofficedocker).
 
 ### REST API
 
